@@ -23,7 +23,7 @@ Projeto Java (Spring Boot) com exercícios para a disciplina de Programação Av
 ```bash
 git clone <URL_DO_REPOSITORIO>
 cd <NOME_DO_PROJETO>
-´´´
+```
 
 ## 2. Ajustar configurações (se necessário)
 
